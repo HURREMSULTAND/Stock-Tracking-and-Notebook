@@ -1,0 +1,54 @@
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.exe
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.deps.json
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.runtimeconfig.json
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.AssemblyReference.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.NavigationForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.NotesForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.Products.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.UserLoginForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.GenerateResource.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.AssemblyInfoInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.AssemblyInfo.cs
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.CoreCompileInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.CopyComplete
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\refint\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.genruntimeconfig.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\winformfs2 kopya\obj\Debug\net6.0-windows\ref\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.exe
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.deps.json
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.runtimeconfig.json
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\winformfs2KOPYAA.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.AssemblyReference.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.NavigationForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.NotesForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.Products.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2.UserLoginForm.resources
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.GenerateResource.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.AssemblyInfoInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.AssemblyInfo.cs
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.CoreCompileInputs.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.csproj.CopyComplete
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\refint\winformfs2KOPYAA.dll
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.pdb
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\winformfs2KOPYAA.genruntimeconfig.cache
+C:\Users\hrsdi\OneDrive\Masaüstü\proo\winformfs2 kopya (1)\winformfs2 kopya\obj\Debug\net6.0-windows\ref\winformfs2KOPYAA.dll
